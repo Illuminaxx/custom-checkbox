@@ -4,6 +4,6 @@
 Checkbox customized with CSS
 
 ## Target
-Just manipulate CSS & customize checkbox
+Just learn to manipulate CSS & customize checkbox
 
 ![Screenshot](checkbox.PNG)
